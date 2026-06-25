@@ -17,7 +17,7 @@ int main() {
    else if(choice==2){
  cout<<"prod of a and b is:"<<a*b<<"\n";     
 }
-  else if (3){
+  else if (choice==3){
      cout<<"diff of a and b is:"<<a-b<<"\n";
   }
   else if(choice==4){
